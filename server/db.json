@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Iphone 44444",
+      "price": 50000,
+      "status": true,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Iphone 6",
+      "price": 60000,
+      "status": false
+    },
+    {
+      "id": "3",
+      "name": "Iphone 8",
+      "price": 80000,
+      "status": true
+    },
+    {
+      "id": "~DFNeTT",
+      "name": "samsum j7",
+      "price": "540000",
+      "status": true
+    },
+    {
+      "id": "LEoTsrF",
+      "name": "samsum galaxy 9",
+      "price": "9000",
+      "status": true
+    }
+  ]
+}
